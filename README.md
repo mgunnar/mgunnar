@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgunnar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD3208&sideNums=1FDD1F)](https://git.io/streak-stats)
+
 
 Hi there 👋 
 - ⏭ Technologist in System Analysis.
@@ -17,3 +17,20 @@ Olá 👋
 - 🤔 Estou procurando ajuda com testes de unidade.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
 - ⚡ Curiosidade: Marido e em breve serei pai de uma linda menina, em transição de carreira, bacharel em direito.
+
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/matheusgunnar)
+[![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/matheusgunnar/)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/matheusgunnar/)
+
+
+<a href="https://github.com/mgunnar/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgunnar&layout=compact&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/mgunnar/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgunnar&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+</a> 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgunnar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD3208&stroke=DD2727&sideNums=67DD49)](https://git.io/streak-stats)
+
