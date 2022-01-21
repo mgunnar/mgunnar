@@ -5,7 +5,7 @@ Hi there 👋
 - 🔭 I am currently working at DBServer as a software development intern since 2021-10.
 - 🌱 I’m currently learning Node, React, Ruby on Rails, mongoDB.
 - 👯 I’m looking to collaborate on accessibility apps.
-- 🤔 I’m looking for help with unity testing.
+- 🤔 I’m looking for help with unit testing.
 - 📫 How to reach me: https://www.linkedin.com/in/matheusgunnar/
 - ⚡ Fun fact: Husband and soon to be father of a beautiful girl, in career transition, bachelor of law.
     
@@ -14,7 +14,7 @@ Olá 👋
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021-10.
 - 🌱 Atualmente estou aprendendo Node, React, Ruby on Rails, mongoDB
 - 👯 Estou procurando colaborar em aplicativos de acessibilidade.
-- 🤔 Estou procurando ajuda com testes de unidade.
+- 🤔 Estou procurando ajuda com testes unitários.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
 - ⚡ Curiosidade: Marido e em breve serei pai de uma linda menina, em transição de carreira, bacharel em direito.
 
