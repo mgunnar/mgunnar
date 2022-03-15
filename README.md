@@ -3,7 +3,7 @@
 Hi there 👋 
 - ⏭ Technologist in System Analysis.
 - 🔭 I am currently working at DBServer as a software development intern since 2021-10.
-- 🌱 I’m currently learning Node, React, Ruby on Rails, mongoDB.
+- 🌱 I’m currently learning Java, Node, React, Ruby on Rails, mongoDB.
 - 👯 I’m looking to collaborate on accessibility apps.
 - 🤔 I’m looking for help with unit testing.
 - 📫 How to reach me: https://www.linkedin.com/in/matheusgunnar/
@@ -12,7 +12,7 @@ Hi there 👋
 Olá 👋  
 - ⏭ Estudante de análise de sistemas, 2º semestre.
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021-10.
-- 🌱 Atualmente estou aprendendo Node, React, Ruby on Rails, mongoDB
+- 🌱 Atualmente estou aprendendo Java,Node, React, Ruby on Rails, mongoDB
 - 👯 Estou procurando colaborar em aplicativos de acessibilidade.
 - 🤔 Estou procurando ajuda com testes unitários.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
