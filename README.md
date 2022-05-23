@@ -11,7 +11,7 @@ Hi there 👋
 Olá 👋  
 - ⏭ Estudante de análise de sistemas, 2º semestre.
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021-10.
-- 🌱 Atualmente estou aprendendo Java,Node, React, Ruby on Rails, mongoDB
+- 🌱 Atualmente estou aprendendo Java Spring, Angular, Node, React, Ruby on Rails, mongoDB
 - 🤔 Estou procurando ajuda com testes unitários.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
 - ⚡ Curiosidade: Marido e pai de uma linda menina, em transição de carreira, bacharel em direito.
