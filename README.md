@@ -3,20 +3,18 @@
 Hi there 👋 
 - ⏭ Technologist in System Analysis.
 - 🔭 I am currently working at DBServer as a software development intern since 2021-10.
-- 🌱 I’m currently learning Java, Node, React, Ruby on Rails, mongoDB.
-- 👯 I’m looking to collaborate on accessibility apps.
+- 🌱 I’m currently learning Java Spring, Angular, Node, React, Ruby on Rails, mongoDB.
 - 🤔 I’m looking for help with unit testing.
 - 📫 How to reach me: https://www.linkedin.com/in/matheusgunnar/
-- ⚡ Fun fact: Husband and soon to be father of a beautiful girl, in career transition, bachelor of law.
+- ⚡ Fun fact: Husband and father of a beautiful girl, in career transition, bachelor of law.
     
 Olá 👋  
 - ⏭ Estudante de análise de sistemas, 2º semestre.
 - 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021-10.
 - 🌱 Atualmente estou aprendendo Java,Node, React, Ruby on Rails, mongoDB
-- 👯 Estou procurando colaborar em aplicativos de acessibilidade.
 - 🤔 Estou procurando ajuda com testes unitários.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
-- ⚡ Curiosidade: Marido e em breve serei pai de uma linda menina, em transição de carreira, bacharel em direito.
+- ⚡ Curiosidade: Marido e pai de uma linda menina, em transição de carreira, bacharel em direito.
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/matheusgunnar)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/matheusgunnar/)
