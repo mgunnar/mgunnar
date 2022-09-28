@@ -1,8 +1,7 @@
 
 
 Hi there 👋 
-- ⏭ Technologist in System Analysis.
-- 🔭 I am currently working at DBServer as a software development intern since 2021-10.
+- 🔭 I am currently working at DBServer since 2021.
 - 🌱 I’m currently learning Java, Spring Framework, PHP, Angular, Node, React, Ruby on Rails, mongoDB.
 - 🤔 I’m looking for help with unit testing.
 - 📫 How to reach me: https://www.linkedin.com/in/matheusgunnar/
@@ -10,7 +9,7 @@ Hi there 👋
     
 Olá 👋  
 - ⏭ Estudante de análise de sistemas, 2º semestre.
-- 🔭 Atualmente estou trabalhando na DBServer como estagiário de desenvolvimento de software, desde 2021-10.
+- 🔭 Atualmente estou trabalhando na DBServer desde 2021.
 - 🌱 Atualmente estou aprendendo Java, Spring Framework, PHP, Angular, Node, React, Ruby on Rails, mongoDB.
 - 🤔 Estou procurando ajuda com testes unitários.
 - 📫 Como me encontrar: https://www.linkedin.com/in/matheusgunnar/
