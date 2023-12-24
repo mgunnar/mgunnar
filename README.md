@@ -3,7 +3,6 @@ Matheus Gunnar M. S. Paim
 
 ### Desenvolvedor Back-end
 
-*   📧 **E-mail:** devmatheus@gmail.com
 *   📍 **Localização:** Porto Alegre, RS, Brasil
 
 ### 💻 Sobre Mim
@@ -49,7 +48,6 @@ Matheus Gunnar M. S. Paim
 
 ### Back-end Developer
 
-*   📧 **Email:** devmatheus@gmail.com
 *   📍 **Location:** Porto Alegre, RS, Brazil
 
 ### 💻 About Me
